@@ -1,1 +1,2 @@
-Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo, mas que ainda não está funcionando perfeitamente. Por enquanto, apenas!
+Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo. Alterando no github.
+
